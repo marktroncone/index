@@ -1,0 +1,448 @@
+[02-Sep-2017 04:38:14 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_CLASS::updateVenue(), 5 passed in /home/abdokhaled384/public_html/get/index.php on line 157 and at least 6 expected in /home/abdokhaled384/public_html/get/class.db.php:64
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(157): DB_CLASS->updateVenue('152', 'Test Venue', 'Ali Zou Al Feka...', 'nightclub', 'a97da629b098b75...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 64
+[02-Sep-2017 04:38:31 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function DB_CLASS::updateVenue(), 5 passed in /home/abdokhaled384/public_html/get/index.php on line 157 and at least 6 expected in /home/abdokhaled384/public_html/get/class.db.php:64
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(157): DB_CLASS->updateVenue('152', 'Test Venue', 'Ali Zou Al Feka...', 'nightclub', 'd82c8d1619ad817...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 64
+[04-Sep-2017 06:09:31 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:09:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/class.db.php:99
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(186): DB_CLASS->getListings('DESC', '-34.92288431999...', '138.59983338087...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 99
+[04-Sep-2017 06:09:32 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:09:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/class.db.php:99
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(186): DB_CLASS->getListings('DESC', '-34.92288431999...', '138.59983605023...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 99
+[04-Sep-2017 06:09:32 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:09:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/index.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/abdokhaled384/public_html/get/index.php on line 69
+[04-Sep-2017 06:09:36 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:09:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/class.db.php:99
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(186): DB_CLASS->getListings('DESC', '-34.92288431999...', '138.59983605023...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 99
+[04-Sep-2017 06:09:37 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:09:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/index.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/abdokhaled384/public_html/get/index.php on line 69
+[04-Sep-2017 06:09:37 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:09:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/class.db.php:99
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(186): DB_CLASS->getListings('DESC', '-34.92288431999...', '138.59983649511...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 99
+[04-Sep-2017 06:09:37 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:09:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/index.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/abdokhaled384/public_html/get/index.php on line 69
+[04-Sep-2017 06:09:38 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:09:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/class.db.php:99
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(186): DB_CLASS->getListings('DESC', '-34.92288431999...', '138.59983671755...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 99
+[04-Sep-2017 06:09:38 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:09:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/index.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/abdokhaled384/public_html/get/index.php on line 69
+[04-Sep-2017 06:09:39 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:09:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/class.db.php:99
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(186): DB_CLASS->getListings('DESC', '-34.92288431999...', '138.59983688438...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 99
+[04-Sep-2017 06:09:39 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:09:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/index.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/abdokhaled384/public_html/get/index.php on line 69
+[04-Sep-2017 06:09:47 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:09:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/class.db.php:99
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(186): DB_CLASS->getListings('DESC', '-34.92288431999...', '138.59983688438...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 99
+[04-Sep-2017 06:09:47 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:09:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/index.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/abdokhaled384/public_html/get/index.php on line 69
+[04-Sep-2017 06:09:47 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:09:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/class.db.php:99
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(186): DB_CLASS->getListings('DESC', '-34.92288431999...', '138.59983692609...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 99
+[04-Sep-2017 06:09:48 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:09:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/index.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/abdokhaled384/public_html/get/index.php on line 69
+[04-Sep-2017 06:10:31 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:10:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/abdokhaled384/public_html/get/class.db.php:43
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(51): DB_CLASS->insertVenue('Fat Controller ', '136 North Terra...', '-34.9220048', '138.5972779', '', '', 'nightclub', '7ef605fc8dba542...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 43
+[04-Sep-2017 06:10:35 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:10:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/abdokhaled384/public_html/get/class.db.php:43
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(51): DB_CLASS->insertVenue('Fat Controller ', '136 North Terra...', '-34.9220048', '138.5972779', '', '', 'nightclub', '3644a684f98ea8f...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 43
+[04-Sep-2017 06:10:37 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:10:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/abdokhaled384/public_html/get/class.db.php:43
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(51): DB_CLASS->insertVenue('Fat Controller ', '136 North Terra...', '-34.9220048', '138.5972779', '', '', 'nightclub', '013d407166ec4fa...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 43
+[04-Sep-2017 06:10:44 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:10:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/abdokhaled384/public_html/get/class.db.php:43
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(51): DB_CLASS->insertVenue('Fat Controller ', '136 North Terra...', '-34.9220048', '138.5972779', '', '', 'nightclub', 'a5771bce93e200c...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 43
+[04-Sep-2017 06:11:02 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:11:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/abdokhaled384/public_html/get/class.db.php:43
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(51): DB_CLASS->insertVenue('Fat Controller ', '136 North Terra...', '-34.9220048', '138.5972779', '', '', 'nightclub', 'd82c8d1619ad817...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 43
+[04-Sep-2017 06:11:15 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:11:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/abdokhaled384/public_html/get/class.db.php:43
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(51): DB_CLASS->insertVenue('Fat Controller ', '136 North Terra...', '-34.9220048', '138.5972779', '', '', 'nightclub', '42a0e188f5033bc...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 43
+[04-Sep-2017 06:11:16 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:11:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/class.db.php:99
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(186): DB_CLASS->getListings('DESC', '-34.92288431999...', '138.59983692609...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 99
+[04-Sep-2017 06:11:17 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:11:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/index.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/abdokhaled384/public_html/get/index.php on line 69
+[04-Sep-2017 06:11:38 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:11:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/abdokhaled384/public_html/get/class.db.php:43
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(51): DB_CLASS->insertVenue('Fat Controller ', '136 North Terra...', '-34.9220048', '138.5972779', '', '', 'nightclub', 'eecca5b6365d960...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 43
+[04-Sep-2017 06:11:58 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:11:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/abdokhaled384/public_html/get/class.db.php:43
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(51): DB_CLASS->insertVenue('Fat Controller ', '136 North Terra...', '-34.9220048', '138.5972779', '', '', 'nightclub', 'c81e728d9d4c2f6...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 43
+[04-Sep-2017 06:11:59 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:11:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/abdokhaled384/public_html/get/class.db.php:43
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(51): DB_CLASS->insertVenue('Fat Controller ', '136 North Terra...', '-34.9220048', '138.5972779', '', '', 'nightclub', '0777d5c17d4066b...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 43
+[04-Sep-2017 06:12:00 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:12:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/abdokhaled384/public_html/get/class.db.php:43
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(51): DB_CLASS->insertVenue('Fat Controller ', '136 North Terra...', '-34.9220048', '138.5972779', '', '', 'nightclub', '069059b7ef840f0...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 43
+[04-Sep-2017 06:12:03 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:12:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/abdokhaled384/public_html/get/class.db.php:43
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(51): DB_CLASS->insertVenue('Fat Controller ', '136 North Terra...', '-34.9220048', '138.5972779', '', '', 'nightclub', 'a1d0c6e83f02732...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 43
+[04-Sep-2017 06:12:09 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:12:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/abdokhaled384/public_html/get/class.db.php:43
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(51): DB_CLASS->insertVenue('Fat Controller ', '136 North Terra...', '-34.9220048', '138.5972779', '', '', 'nightclub', '06409663226af2f...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 43
+[04-Sep-2017 06:12:14 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:12:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/abdokhaled384/public_html/get/class.db.php:43
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(51): DB_CLASS->insertVenue('Fat Controller ', '136 North Terra...', '-34.9220048', '138.5972779', '', '', 'nightclub', '0a09c8844ba8f09...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 43
+[04-Sep-2017 06:12:17 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:12:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/abdokhaled384/public_html/get/class.db.php:43
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(51): DB_CLASS->insertVenue('Fat Controller ', '136 North Terra...', '-34.9220048', '138.5972779', '', '', 'nightclub', '6512bd43d9caa6e...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 43
+[04-Sep-2017 06:12:21 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:12:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/abdokhaled384/public_html/get/class.db.php:43
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(51): DB_CLASS->insertVenue('Fat Controller ', '136 North Terra...', '-34.9220048', '138.5972779', '', '', 'nightclub', '9dcb88e01376495...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 43
+[04-Sep-2017 06:12:22 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:12:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/abdokhaled384/public_html/get/class.db.php:43
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(51): DB_CLASS->insertVenue('Fat Controller ', '136 North Terra...', '-34.9220048', '138.5972779', '', '', 'nightclub', '3644a684f98ea8f...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 43
+[04-Sep-2017 06:12:51 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:12:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/abdokhaled384/public_html/get/class.db.php:43
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(51): DB_CLASS->insertVenue('Fat Controller ', '136 North Terra...', '-34.9220048', '138.5972779', '', '', 'nightclub', '03afdbd66e7929b...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 43
+[04-Sep-2017 06:12:52 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:12:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/abdokhaled384/public_html/get/class.db.php:43
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(51): DB_CLASS->insertVenue('Fat Controller ', '136 North Terra...', '-34.9220048', '138.5972779', '', '', 'nightclub', '76dc611d6ebaafc...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 43
+[04-Sep-2017 06:12:54 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:12:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/abdokhaled384/public_html/get/class.db.php:43
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(51): DB_CLASS->insertVenue('Fat Controller ', '136 North Terra...', '-34.9220048', '138.5972779', '', '', 'nightclub', 'cedebb6e872f539...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 43
+[04-Sep-2017 06:12:58 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:12:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/abdokhaled384/public_html/get/class.db.php:43
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(51): DB_CLASS->insertVenue('Fat Controller ', '136 North Terra...', '-34.9220048', '138.5972779', '', '', 'nightclub', '19ca14e7ea6328a...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 43
+[04-Sep-2017 06:12:59 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:12:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/abdokhaled384/public_html/get/class.db.php:43
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(51): DB_CLASS->insertVenue('Fat Controller ', '136 North Terra...', '-34.9220048', '138.5972779', '', '', 'nightclub', 'e369853df766fa4...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 43
+[04-Sep-2017 06:13:00 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:13:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/abdokhaled384/public_html/get/class.db.php:43
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(51): DB_CLASS->insertVenue('Fat Controller ', '136 North Terra...', '-34.9220048', '138.5972779', '', '', 'nightclub', '68d30a9594728bc...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 43
+[04-Sep-2017 06:13:01 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:13:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/abdokhaled384/public_html/get/class.db.php:43
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(51): DB_CLASS->insertVenue('Fat Controller ', '136 North Terra...', '-34.9220048', '138.5972779', '', '', 'nightclub', 'a8f15eda80c50ad...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 43
+[04-Sep-2017 06:13:30 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:13:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/abdokhaled384/public_html/get/class.db.php:43
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(51): DB_CLASS->insertVenue('Mr Kim's', '17 Crippen Plac...', '-34.9229546', '138.59423379999...', '', '', 'nightclub', 'cfecdb276f63485...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 43
+[04-Sep-2017 06:13:35 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:13:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/abdokhaled384/public_html/get/class.db.php:43
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(51): DB_CLASS->insertVenue('Mr Kim's', '17 Crippen Plac...', '-34.9229546', '138.59423379999...', '', '', 'nightclub', 'ec8956637a99787...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 43
+[04-Sep-2017 06:13:37 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:13:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/abdokhaled384/public_html/get/class.db.php:43
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(51): DB_CLASS->insertVenue('Mr Kim's', '17 Crippen Plac...', '-34.9229546', '138.59423379999...', '', '', 'bar', 'c9f0f895fb98ab9...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 43
+[04-Sep-2017 06:13:40 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:13:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/abdokhaled384/public_html/get/class.db.php:43
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(51): DB_CLASS->insertVenue('Mr Kim's', '17 Crippen Plac...', '-34.9229546', '138.59423379999...', '', '', 'nightclub', 'f2217062e9a397a...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 43
+[04-Sep-2017 06:14:35 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:14:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/class.db.php:99
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(186): DB_CLASS->getListings('DESC', '-34.92288431999...', '138.59983693999...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 99
+[04-Sep-2017 06:14:35 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:14:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/class.db.php:99
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(186): DB_CLASS->getListings('DESC', '-34.92288431999...', '138.59983693999...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 99
+[04-Sep-2017 06:14:35 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:14:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/index.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/abdokhaled384/public_html/get/index.php on line 69
+[04-Sep-2017 06:15:42 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:15:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/abdokhaled384/public_html/get/class.db.php:43
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(51): DB_CLASS->insertVenue('Mr Kim's', '17 Crippen Plac...', '-34.9229546', '138.59423379999...', '', '', 'nightclub', '54229abfcfa5649...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 43
+[04-Sep-2017 06:16:24 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:16:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/class.db.php:99
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(186): DB_CLASS->getListings('DESC', '-34.92288431999...', '138.59983693999...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 99
+[04-Sep-2017 06:16:25 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:16:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/class.db.php:99
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(186): DB_CLASS->getListings('DESC', '-34.92288431999...', '138.59983693999...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 99
+[04-Sep-2017 06:16:25 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:16:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/index.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/abdokhaled384/public_html/get/index.php on line 69
+[04-Sep-2017 06:16:30 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:16:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/class.db.php:99
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(186): DB_CLASS->getListings('DESC', '-34.92288431999...', '138.59983693999...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 99
+[04-Sep-2017 06:16:31 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:16:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/index.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/abdokhaled384/public_html/get/index.php on line 69
+[04-Sep-2017 06:16:56 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:16:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/abdokhaled384/public_html/get/class.db.php:43
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(51): DB_CLASS->insertVenue('Mr Kim's', '17 Crippen Plac...', '-34.9229546', '138.59423379999...', '', '', 'nightclub', '7e7757b1e12abcb...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 43
+[04-Sep-2017 06:17:02 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:17:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/abdokhaled384/public_html/get/class.db.php:43
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(51): DB_CLASS->insertVenue('Mr Kim's', '17 Crippen Plac...', '-34.9229546', '138.59423379999...', '', '', 'nightclub', '8613985ec49eb8f...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 43
+[04-Sep-2017 06:17:27 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:17:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/abdokhaled384/public_html/get/class.db.php:43
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(51): DB_CLASS->insertVenue('Mr Kim's', '17 Crippen Plac...', '-34.9229546', '138.59423379999...', '', '', 'nightclub', '006f52e9102a8d3...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 43
+[04-Sep-2017 06:17:47 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:17:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/index.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/abdokhaled384/public_html/get/index.php on line 69
+[04-Sep-2017 06:17:53 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:17:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/class.db.php:99
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(186): DB_CLASS->getListings('DESC', '29.972117599999...', '31.194000900000...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 99
+[04-Sep-2017 06:17:53 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:17:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/class.db.php:99
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(186): DB_CLASS->getListings('DESC', '29.972117599999...', '31.194000900000...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 99
+[04-Sep-2017 06:17:53 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:17:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/class.db.php:99
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(186): DB_CLASS->getListings('DESC', '29.972117599999...', '31.194000900000...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 99
+[04-Sep-2017 06:17:53 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:17:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/index.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/abdokhaled384/public_html/get/index.php on line 69
+[04-Sep-2017 06:18:12 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:18:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/abdokhaled384/public_html/get/class.db.php:43
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(51): DB_CLASS->insertVenue('test', 'Portsaid street...', '29.9598107', '31.213963899999...', '', '', 'nightclub', 'd2ddea18f00665c...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 43
+[04-Sep-2017 06:18:22 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[04-Sep-2017 06:18:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/abdokhaled384/public_html/get/class.db.php:43
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(51): DB_CLASS->insertVenue('test', 'Portsaid street...', '29.9598107', '31.213963899999...', '', '', 'nightclub', 'd645920e395feda...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 43
+[08-Sep-2017 13:51:14 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'linetime_db'@'localhost' (using password: YES) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[08-Sep-2017 13:51:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/class.db.php:99
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(186): DB_CLASS->getListings('DESC', '30.013055700000...', '31.2088526')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 99
+[08-Sep-2017 13:51:15 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'linetime_db'@'localhost' (using password: YES) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[08-Sep-2017 13:51:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/class.db.php:99
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(186): DB_CLASS->getListings('DESC', '30.013055700000...', '31.2088526')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 99
+[08-Sep-2017 13:51:15 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'linetime_db'@'localhost' (using password: YES) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[08-Sep-2017 13:51:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/index.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/abdokhaled384/public_html/get/index.php on line 69
+[08-Sep-2017 13:51:22 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'linetime_db'@'localhost' (using password: YES) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[08-Sep-2017 13:51:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/class.db.php:99
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(186): DB_CLASS->getListings('DESC', '30.013055700000...', '31.2088526')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 99
+[08-Sep-2017 13:51:22 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'linetime_db'@'localhost' (using password: YES) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[08-Sep-2017 13:51:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/index.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/abdokhaled384/public_html/get/index.php on line 69
+[08-Sep-2017 13:51:34 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'linetime_db'@'localhost' (using password: YES) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[08-Sep-2017 13:51:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/class.db.php:99
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(186): DB_CLASS->getListings('DESC', '30.013055700000...', '31.2088526')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 99
+[08-Sep-2017 13:51:35 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'linetime_db'@'localhost' (using password: YES) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[08-Sep-2017 13:51:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/index.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/abdokhaled384/public_html/get/index.php on line 69
+[08-Sep-2017 13:52:02 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'linetime_db'@'localhost' (using password: YES) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[08-Sep-2017 13:52:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on string in /home/abdokhaled384/public_html/get/class.db.php:43
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(51): DB_CLASS->insertVenue('fsd', 'Portsaid street...', '29.9598107', '31.213963899999...', '', '', 'nightclub', '68d30a9594728bc...')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 43
+[08-Sep-2017 13:52:18 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'linetime_db'@'localhost' (using password: YES) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[08-Sep-2017 13:52:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/class.db.php:99
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(186): DB_CLASS->getListings('DESC', '30.013055700000...', '31.2088526')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 99
+[08-Sep-2017 13:52:19 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'linetime_db'@'localhost' (using password: YES) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[08-Sep-2017 13:52:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/class.db.php:99
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(186): DB_CLASS->getListings('DESC', '30.013055700000...', '31.2088526')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 99
+[08-Sep-2017 13:52:19 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'linetime_db'@'localhost' (using password: YES) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[08-Sep-2017 13:52:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/index.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/abdokhaled384/public_html/get/index.php on line 69
+[08-Sep-2017 13:52:21 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'linetime_db'@'localhost' (using password: YES) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[08-Sep-2017 13:52:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/class.db.php:99
+Stack trace:
+#0 /home/abdokhaled384/public_html/get/index.php(186): DB_CLASS->getListings('DESC', '30.013055700000...', '31.2088526')
+#1 {main}
+  thrown in /home/abdokhaled384/public_html/get/class.db.php on line 99
+[08-Sep-2017 13:52:21 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'linetime_db'@'localhost' (using password: YES) in /home/abdokhaled384/public_html/get/class.db.php on line 22
+[08-Sep-2017 13:52:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/abdokhaled384/public_html/get/index.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/abdokhaled384/public_html/get/index.php on line 69

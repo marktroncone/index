@@ -1,0 +1,20 @@
+runtime: php55
+api_version: 1
+
+env_variables:
+  # Replace project, instance, database, user and password with the values obtained
+  # when configuring your Cloud SQL instance.
+  MYSQL_DSN: mysql:unix_socket=/cloudsql/linetime-179318:australia-southeast1:linetimedb;dbname=linetime
+  MYSQL_USER: root
+  MYSQL_PASSWORD: 'LBjqPouAF726tKwB'
+  
+handlers:
+- url: /public
+  static_dir: public
+ 
+- url: /get/.*
+  script: get/index.php
+  
+- url: /.*
+  script: index.php
+  
